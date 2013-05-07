@@ -1,0 +1,4 @@
+ofxXmlSettings
+ofxFlickr
+ofxHttpUtils
+ofxJSON
